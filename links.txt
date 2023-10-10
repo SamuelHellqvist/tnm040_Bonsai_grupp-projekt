@@ -1,0 +1,6 @@
+för att starta npm servern:
+1. Öppna powershell
+2. Gå till directoryt där ni har repositoryt
+3. cd hela vägen till event-app
+4. skriv "npm start"
+(detta funkar om ni har npm installerat, annars använd npm install först)
